@@ -17,11 +17,11 @@ public:
 	{
 		if (IsOdd(3) == true)
 		{
-			std::cout << "3 is odd.\n";
+			std::cout << "this is odd.\n";
 		}
 		else
 		{
-			std::cout << "3 is not odd.\n";
+			std::cout << "this is not odd.\n";
 		}
 	}
 };

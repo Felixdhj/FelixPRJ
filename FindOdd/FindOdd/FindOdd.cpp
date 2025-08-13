@@ -8,6 +8,8 @@ CMyAPP theApp;
 CMyAPP theApp2;
 bool IsOdd(int number) 
 {
+
+
 	//s_a = number / 2;
 	//s_b = number - s_a;
 
@@ -21,4 +23,6 @@ bool IsOdd(int number)
 	//}
 
 	return ((number % 2) != 0); // Return true if number is odd, false if even
+
+
 }
