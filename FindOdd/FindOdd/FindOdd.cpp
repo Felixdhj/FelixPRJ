@@ -12,7 +12,7 @@ CMyAPP theApp2;
 bool IsOdd(int number) 
 {
 
-
+	std::cout << "Nice to see you again!\n";
 	//s_a = number / 2;
 	//s_b = number - s_a;
 
