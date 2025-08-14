@@ -4,6 +4,7 @@
 #include <iostream>
 #include "FindOdd.h"
 
+using namespace std;
 
 int main()
 {
@@ -16,6 +17,8 @@ int main()
  //   {
  //       std::cout << "3 is not odd.\n";
 	//}
+
+	cout << "Hello World!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
