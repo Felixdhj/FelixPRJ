@@ -18,19 +18,6 @@ int main()
  //       std::cout << "3 is not odd.\n";
 	//}
 
-	cout << "Hello World!\n";
-
-	cout << "Hello World!\n";
-
-	cout << "Hello World!\n";
-
-	cout << "Hello World!\n";
-	cout << "Hello World!\n";
-	cout << "Hello World!\n";
-	cout << "Hello World!\n";
-	cout << "LEt's GO!!!\n";
-
-
 
 }
 
