@@ -24,6 +24,7 @@ int main()
 	cout << "33333333333333333\n";
 	cout << "44444444444444444\n";
 	cout << "55555555555555555\n";
+	cout << "66666666666666666\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
