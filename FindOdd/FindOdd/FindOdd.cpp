@@ -1,4 +1,7 @@
 #include "FindOdd.h"
+#include <iostream>
+
+using namespace std;
 
 int s_a;
 int s_b;
@@ -22,6 +25,7 @@ bool IsOdd(int number)
 	//	return true;
 	//}
 
+	
 	return ((number % 2) != 0); // Return true if number is odd, false if even
 
 
